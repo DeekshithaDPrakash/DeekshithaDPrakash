@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin- @Deekshitha DP
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Realised in 2021 that Github is important.
--->
