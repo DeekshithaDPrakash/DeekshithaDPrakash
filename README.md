@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on Computer Vision concepts.
 - 🌱 I’m currently learning Deep learning algorithms.
-- 👯 I’m looking to collaborate on ...
+<!--- 👯 I’m looking to collaborate on ...-->
 - 🤔 I’m looking for help with multi-object detection.
 - 💬 Ask me about my goals and accomplishments
-- 📫 How to reach me: Linkedin- @Deekshitha DP
+- 📫 How to reach me: Linkedin- www.linkedin.com/in/deekshitha-dp
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Realised in 2021 that Github is important.
+- ⚡ Fun fact: love to draw and create digital arts
