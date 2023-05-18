@@ -2,12 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="250"/>
 </div>
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/deekshitha-dp">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Deekshitha&style=flat-square&color=blue" alt=""/>
 </div>
+<!---
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Deekshitha&style=flat-square&color=blue" alt=""/>
 </div>
