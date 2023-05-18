@@ -10,3 +10,7 @@
 - 📫 How to reach me: Linkedin- www.linkedin.com/in/deekshitha-dp
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: love to draw and create digital arts
+
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif)" width="100"/>
+</div>
