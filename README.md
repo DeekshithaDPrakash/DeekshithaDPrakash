@@ -21,7 +21,6 @@
 - 🔭 My daily work includes applying Computer Vision and image processing algorithms on dental image analysis.
 - 🌱 I'm currently working on NLP and Generative AI.<!--- 👯 I’m looking to collaborate on ...-->
 - 💬 Ask me about my goals and accomplishments
-- 📫 How to reach me: Linkedin- www.linkedin.com/in/deekshitha-dp
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: love to draw and create digital arts
 
