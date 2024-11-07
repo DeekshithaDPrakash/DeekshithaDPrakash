@@ -23,8 +23,8 @@
 <!--**DeekshithaDPrakash/DeekshithaDPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- :telescope: My daily work includes applying Computer Vision and image processing algorithms on dental image analysis.
-- :seedling: I'm currently working on NLP and Generative AI.<!--- 👯 I’m looking to collaborate on ...-->
+- :telescope: My daily work includes Customizing LLM's to different use cases such as Document QA.
+- :seedling: I'm currently working on implementing triton-llm for inferencing.<!--- 👯 I’m looking to collaborate on ...-->
 - ⚡ Fun fact: love to draw and create digital arts
 
 ---
