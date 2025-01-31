@@ -23,15 +23,14 @@
 <!--**DeekshithaDPrakash/DeekshithaDPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-- :telescope: My daily work includes Customizing LLM's to different use cases such as Document QA.
-- :seedling: I'm currently working on implementing triton-llm for inferencing.<!--- 👯 I’m looking to collaborate on ...-->
+- :telescope: My daily work includes Customizing LLM's to different use cases such as Document QA and inferencing them on Triton server.
+- :seedling: I'm currently working on implementing Langgraph with Agents using Custom LLM.<!--- 👯 I’m looking to collaborate on ...-->
 - ⚡ Fun fact: love to draw and create digital arts
 
----
 <!---
 ### :hammer_and_wrench: Languages and Tools :
 --->
-
+<!---
 ### Programming Skills
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -59,7 +58,7 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-
+--->
 <!---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
