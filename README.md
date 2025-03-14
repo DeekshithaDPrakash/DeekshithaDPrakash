@@ -24,8 +24,8 @@
 
 
 - :telescope: My daily work includes Customizing LLM's to different use cases such as Document QA and inferencing them on Triton server.
-- :seedling: I'm currently working on implementing Langgraph with Agents using Custom LLM.<!--- 👯 I’m looking to collaborate on ...-->
-- ⚡ Fun fact: love to draw and create digital arts
+- :seedling: I'm currently working on implementing Langgraph with Agents using Fine-tuned LLM's on a business partner's website.<!--- 👯 I’m looking to collaborate on ...-->
+- ⚡ Fun fact: love to draw , create digital arts and content.
 
 <!---
 ### :hammer_and_wrench: Languages and Tools :
